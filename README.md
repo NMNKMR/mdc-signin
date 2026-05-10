@@ -6,4 +6,4 @@ Screenshots
 
 Sign In Screen:
 
-<img width="650" height="850" alt="image" src="https://github.com/user-attachments/assets/3e7381f6-da83-4a7a-b60b-86352c94a430" />
+<img width="369" height="800" alt="image" src="https://github.com/user-attachments/assets/3e7381f6-da83-4a7a-b60b-86352c94a430" />
